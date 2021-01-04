@@ -2,7 +2,7 @@
 title: Hello World
 layout: post
 post-image: "/assets/images/post.jpg"
-description: Web Penetration Tester And Self Learner
+description: Web Penetration Tester And Self Hacking Learner
 tags:
 - Hackfluentz
 - Web Pentester
