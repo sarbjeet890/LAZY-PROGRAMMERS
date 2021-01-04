@@ -1,4 +1,4 @@
-# WhatATheme
+# WhatATheme and thanks to rohandas28 for theme style
 markdown: kramdown
 
 # URL of the Site
@@ -8,7 +8,7 @@ baseurl:
 # Title of the Site
 title: Hackfluentz
 # Description of the Site
-description: web Penetration Tester And Self Learner
+description: Web Penetration Tester And Self Learner
 # URL of Image of the Site
 site-image: /assets/images/post.jpg
 # Keywords of the Site
@@ -26,7 +26,7 @@ twitter_username: hackfluentz
 instagram_username: hacking.science
 linkedin_username: hackfluentz
 github_username:  hackfluentz
-youtube_channel_id: 
+youtube_channel_id: UC59EEFqddkLityl-4jEjAOw
 reddit_username: 
 behance_username: 
 dribbble_username: 
@@ -37,14 +37,14 @@ telegram_username: hackfluentz
 google-analytics: 
 
 # Disqus
-disqus-shortname: rohandas28
+disqus-shortname: hackfluentz
 
 # Name of the Author
-author-name: hackfluentz
+author-name: Hackfluentz
 # URL for the Image of the Author
 author-image: https://github.com/hackfluentz.png
 # 60 Words About the Author
-author-about: Hackfluentz is a web penetaration tester, who has a good command in sql injection, bughunting, python. Also, he is a creative logo designer and enthusiastic techie who has a YouTube channel named hackfluentz tech where he discusses tech-stuff. For more information, you can contact me via mail and social media.
+author-about: Hackfluentz is a web penetaration tester, who has a good command in sql injection, learning bughunting and python. Also, he is a logo designer and loves to devlop tech gadgets, who has a YouTube channel named hackfluentz tech where he teach hacking in short videos. For more information, you can contact me via mail and social media.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/hackfluentz
 
