@@ -1,33 +1,96 @@
+# WhatATheme
 markdown: kramdown
 
-exclude:
-  - Gemfile
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+# Title of the Site
+title: Hackfluentz
+# Description of the Site
+description: web Penetration Tester And Self Learner
+# URL of Image of the Site
+site-image: /assets/images/post.jpg
+# Keywords of the Site
+site-keywords: hackfluentz, hack fluentz, hack, fluentz, hackfluentz tech, hackfluentz githun, coder
+# URL for the Image of custom Favicon
+favicon-url: 
 
-title: Rohan Das
-tagline: Passionate Coder With Imagination
-description: I am a passionate Python coder, who has a good command in HTML and CSS. Also, I am a creative graphic designer and an enthusiastic techie.
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: /assets/images/hero.jpg
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: hackfluentzofficial@gmail.com
+facebook_username: 
+twitter_username: hackfluentz
+instagram_username: hacking.science
+linkedin_username: hackfluentz
+github_username:  hackfluentz
+youtube_channel_id: 
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
+telegram_username: hackfluentz
 
-author: Rohan Das
+# Google Analytics
+google-analytics: UA-77097747-2
 
-permalink: 'blog/:title'
+# Disqus
+disqus-shortname: rohandas28
 
+# Name of the Author
+author-name: hackfluentz
+# URL for the Image of the Author
+author-image: https://github.com/hackfluentz.png
+# 60 Words About the Author
+author-about: Hackfluentz is a web penetaration tester, who has a good command in sql injection, bughunting, python. Also, he is a creative logo designer and enthusiastic techie who has a YouTube channel named hackfluentz tech where he discusses tech-stuff. For more information, you can contact me via mail and social media.
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/hackfluentz
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
 plugins:
-  - jekyll-feed
   - jekyll-admin
+  - jekyll-feed
 
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
 defaults:
   -
     scope:
-      path: ""
       type: 'posts'
     values:
-      image: ""
-      author: ""
-      layout: posts
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
   -
     scope:
-      path: ""
       type: 'pages'
     values:
-      image: ""
       layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
