@@ -6,9 +6,9 @@ url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 # Title of the Site
-title: Hackfluentz
+title: LAZY PROGRAMMER
 # Description of the Site
-description: Web Penetration Tester And Self Learner
+description: python and web development learner
 # URL of Image of the Site
 site-image: /assets/images/post.jpg
 # Keywords of the Site
@@ -20,33 +20,33 @@ favicon-url:
 heroimage: /assets/images/hero.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: hackfluentzofficial@gmail.com
+email: lazyprogrammerstarget1million@gmail.com
 facebook_username: 
-twitter_username: hackfluentz
-instagram_username: hacking.science
-linkedin_username: hackfluentz
-github_username:  hackfluentz
-youtube_channel_id: UC59EEFqddkLityl-4jEjAOw
+twitter_username: Sarbjee60068371
+instagram_username: sarb.theiitian.6542
+linkedin_username: 
+github_username:  sarbjeet890
+youtube_channel_id: UC-MBksucuCI13g0NjBSnSMw
 reddit_username: 
 behance_username: 
 dribbble_username: 
 spotify_username: 
-telegram_username: hackfluentz
+telegram_username: sarbjeetpal_2006
 
 # Google Analytics
 google-analytics: 
 
 # Disqus
-disqus-shortname: hackfluentz
+disqus-shortname: lazy programmers
 
 # Name of the Author
-author-name: Hackfluentz
+author-name: LAZY PROGRAMMER
 # URL for the Image of the Author
 author-image: https://hackfluentz.github.io/assets/images/Brand.png
 # 60 Words About the Author
-author-about: Hackfluentz is a web penetaration tester, who has a good command in sql injection, learning bughunting and python. Also, he is a logo designer and loves to devlop tech gadgets, who has a YouTube channel named hackfluentz tech where he teach hacking in short videos. For more information, you can contact me via mail and social media.
+author-about: HELLO! THIS IS LAZY PROGRAMMER AND I AM LEARNING PYTHON AND WEB DEVELOPMENT. I AM ALSO INTRESTED IN ETHICAL HACKING. I HAVE A YOUTUBE CHANNEL NAME LAZY-PROGRAMMER
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/hackfluentz
+author-url: https://sarbjeet890.github.io/
 
 # SASS
 sass:
