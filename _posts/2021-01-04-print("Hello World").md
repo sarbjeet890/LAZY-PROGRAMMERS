@@ -2,7 +2,7 @@
 title: Hello World
 layout: post
 post-image: "assets/images/post.jpg"
-description: Web Penetration Tester And Self Hacking Learner
+description: PYTHON ,WEB DEVELOPMENT AND ETHICAL HACKING LEANER
 tags:
 - LAZY PROGRAMMER
 - python and web development learner
