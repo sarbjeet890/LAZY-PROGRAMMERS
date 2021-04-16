@@ -17,9 +17,12 @@
     left: auto;
 }
 
-a.navbar-item:hover,
+a.navbar-item:hover{
+    background-color: rgba($color: #fff, $alpha: 1) !important;
+    color: white !important;
+}
 .navbar-link:hover {
-    background-color: rgba($color: #1f6feb, $alpha: 0.25) !important;
+    background-color: rgba($color: #1f6feb, $alpha: 1) !important;
     color: white !important;
 }
 
