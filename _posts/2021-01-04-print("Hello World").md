@@ -1,7 +1,7 @@
 ---
 title: Hello World
 layout: post
-post-image: "/assets/images/post.jpg"
+post-image: "assets/images/post.jpg"
 description: PYTHON ,WEB DEVELOPMENT AND ETHICAL HACKING LEANER
 tags:
 - LAZY PROGRAMMER
