@@ -18,21 +18,21 @@
 }
 
 a.navbar-item:hover{
-    background: rgba($color:#fff $alpha:0.25) !important;
+    background-color: rgba($color:#fff $alpha:0.25)!important;
   color:white;
   
 }
 .navbar-link:hover {
-background: rgba($color:#fff $alpha:0.25) !important;
+background-color: rgba($color:#fff $alpha:0.25)!important;
   color:white;
 }
 
 a.navbar-item.is-active {
-  background: rgba($color:#fff $alpha:0.25) !important;
+  background-color: rgba($color:#fff $alpha:0.25)!important;
   color:white;
 
     &:hover {
-  background: rgba($color:#fff $alpha:0.25) !important;
+  background-color: rgba($color:#fff $alpha:0.25)!important;
   color:white;
     }
 }
